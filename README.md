@@ -154,7 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-MOHAMED AMINE - [Github](https://github.com/houiji20) / [Twitter](https://twitter.com/alexa_orrico)  
+MOHAMED AMINE - [Github](https://github.com/houiji20)
+Majd Mednini - [Github](https://github.com/threadsv1)
 
 
 Second part of Airbnb: Joann Vuong
